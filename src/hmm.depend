@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1450536992 source:f:\mycfiles\hmm\hmm\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
+1451227036 source:f:\mycfiles\hmm\main.c
+	"hmm.h"
+
+1451220009 f:\mycfiles\hmm\hmm.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<omp.h>
+
+1450597009 source:f:\mycfiles\hmm\printfunctions.c
+	"hmm.h"
+
+1450597009 source:f:\mycfiles\hmm\backwardstep.c
+	"hmm.h"
+
+1450597009 source:f:\mycfiles\hmm\forwardstep.c
+	"hmm.h"
+
+1451213669 source:f:\mycfiles\hmm\initialization.c
+	"hmm.h"
+
+1450597009 source:f:\mycfiles\hmm\scaler.c
+	"hmm.h"
+
+1451031543 source:f:\mycfiles\hmm\getgamma.c
+	"hmm.h"
+
+1450601620 source:f:\mycfiles\hmm\getxi.c
+	"hmm.h"
+
+1451031543 source:f:\mycfiles\hmm\getnumeratordenominator.c
+	"hmm.h"
+
+1451227009 source:f:\mycfiles\hmm\hmm.c
+	"hmm.h"
+
+1621479142 source:e:\hmm\backwardstep.c
+	"hmm.h"
+
+1621571553 e:\hmm\hmm.h
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+	<omp.h>
+	<string.h>
+
+1621568088 source:e:\hmm\forwardstep.c
+	"hmm.h"
+
+1621148230 source:e:\hmm\getgamma.c
+	"hmm.h"
+
+1621052891 source:e:\hmm\getnumeratordenominator.c
+	"hmm.h"
+
+1621052891 source:e:\hmm\getxi.c
+	"hmm.h"
+
+1621561760 source:e:\hmm\hmm.c
+	"hmm.h"
+
+1620451512 source:e:\hmm\initialization.c
+	"hmm.h"
+
+1621562287 source:e:\hmm\main.c
+	"hmm.h"
+
+1620463606 source:e:\hmm\printfunctions.c
+	"hmm.h"
+
+1621567429 source:e:\hmm\scaler.c
+	"hmm.h"
+
+1620884451 source:e:\hmm\gethiddenstates.cpp
+	"hmm.h"
+
